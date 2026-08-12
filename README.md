@@ -1,16 +1,40 @@
-## Hi there 👋
+##Hello there! 👋 👋
+# Hey there! 👋
 
-<!--
-**joaoo23-j/joaoo23-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **IT student** currently studying and building my skills in technology.
 
-Here are some ideas to get you started:
+I'm interested in **software development, computer hardware, networking, databases, and IT infrastructure**. Most of what I know so far comes from hands-on projects and practical activities throughout my technical course.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What I've been working with
+
+**Frontend & Programming**
+`HTML` · `CSS` · `JavaScript` · `Python`
+
+**Database**
+`MySQL`
+
+**Servers & Infrastructure**
+`Windows Server` · `pfSense` · `GLPI`
+
+**Tools**
+`Git` · `GitHub`
+
+### 🔧 What I've learned
+
+🖥️ Computer assembly, maintenance & hardware
+🌐 Local networks and network maintenance
+⚙️ Operating system installation & configuration
+🧠 Algorithms and programming logic
+🗄️ Database development
+🚀 Application testing and deployment
+
+I'm still learning and improving every day, so this profile is also a way to **document my progress and the projects I build along the way**.
+
+### 🌎 Future goals
+
+I want to keep growing in technology, gain experience, and eventually **build an international career**, with the possibility of working and living abroad.
+
+---
+
+*Just getting started. There's a lot more to learn.* 🚀
+
