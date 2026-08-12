@@ -21,12 +21,12 @@ I'm interested in **software development, computer hardware, networking, databas
 
 ### 🔧 What I've learned
 
-*🖥️ Computer assembly, maintenance & hardware
-*🌐 Local networks and network maintenance
-*⚙️ Operating system installation & configuration
-*🧠 Algorithms and programming logic
-*🗄️ Database development
-*🚀 Application testing and deployment
+* 🖥️ Computer assembly, maintenance & hardware
+* 🌐 Local networks and network maintenance
+⚙️ Operating system installation & configuration
+🧠 Algorithms and programming logic
+🗄️ Database development
+🚀 Application testing and deployment
 
 I'm still learning and improving every day, so this profile is also a way to **document my progress and the projects I build along the way**.
 
