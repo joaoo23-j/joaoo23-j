@@ -6,7 +6,7 @@
 
 ---
 
-## 💻 About Me
+##  About Me
 
 * **Technologies I'm learning:** HTML, CSS, JavaScript, and Python.
 * **Hands-on experience:** Computer assembly, maintenance and hardware, local networks, operating systems, servers, databases, and application testing.
@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 * **Programming & Frontend:** HTML, CSS, JavaScript, Python
 * **Database:** MySQL
@@ -23,20 +23,20 @@
 
 ---
 
-## 🔧 Hands-on Experience
+##  Hands-on Experience
 
-* 🖥️ Computer assembly, maintenance & hardware
-* 🌐 Local network installation & maintenance
-* ⚙️ Operating system installation & configuration
-* 🧠 Algorithm development & programming logic
-* 🗄️ Database development
-* 🚀 Application testing & deployment
+*  Computer assembly, maintenance & hardware
+*  Local network installation & maintenance
+*  Operating system installation & configuration
+*  Algorithm development & programming logic
+*  Database development
+*  Application testing & deployment
 
 ---
 
 I still have a lot to learn, and that's exactly what motivates me. I enjoy **learning by doing, solving problems, and exploring new technologies**.
 
-### 🌎 Where I Want to Go
+###  Where I Want to Go
 
 My goal is to turn the knowledge I'm building now into a **career in technology**, gain professional experience, and, in the future, **have the opportunity to work internationally**.
 
