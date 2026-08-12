@@ -1,40 +1,37 @@
-## Hello there! 👋 👋
+# Hello! 👋
 
+I'm an **IT student** currently taking my first steps into the technology field.
 
-I'm an **IT student** currently studying and building my skills in technology.
+Throughout my technical course, I've had the opportunity to explore different areas of IT and discover what interests me the most. I've worked with **programming, databases, networking, servers, and computer hardware**, gaining hands-on experience and learning how different parts of IT work together.
 
-I'm interested in **software development, computer hardware, networking, databases, and IT infrastructure**. Most of what I know so far comes from hands-on projects and practical activities throughout my technical course.
+### 💻 Technologies I've worked with
 
-### 💻 What I've been working with
-
-**Frontend & Programming**
+**Programming & Frontend**
 `HTML` · `CSS` · `JavaScript` · `Python`
 
 **Database**
 `MySQL`
 
-**Servers & Infrastructure**
+**Servers & Networking**
 `Windows Server` · `pfSense` · `GLPI`
 
 **Tools**
 `Git` · `GitHub`
 
-### 🔧 What I've learned
+### 🔧 Hands-on Experience
 
 * 🖥️ Computer assembly, maintenance & hardware
-* 🌐 Local networks and network maintenance
+* 🌐 Local network installation & maintenance
 * ⚙️ Operating system installation & configuration
-* 🧠 Algorithms and programming logic
+* 🧠 Algorithm development & programming logic
 * 🗄️ Database development
-* 🚀 Application testing and deployment
+* 🚀 Application testing & deployment
 
-I'm still learning and improving every day, so this profile is also a way to **document my progress and the projects I build along the way**.
+I still have a lot to learn, and that's exactly what motivates me. I enjoy **learning by doing, solving problems, and exploring new technologies**. I want to use this profile to document my projects, show my progress, and keep building skills that can open doors for me in the future.
 
-### **🌎 Future goals**
+### 🌎 Where I want to go
 
-I want to keep growing in technology, gain experience, and eventually **build an international career**, with the possibility of working and living abroad.
+My goal is to turn the knowledge I'm building now into a **career in technology**, gain real-world experience, and eventually have the opportunity to work internationally.
 
----
-
-*Just getting started. There's a lot more to learn.* 🚀
-
+**I'm at the beginning of the journey, but I want to go far.** 🚀
+****
