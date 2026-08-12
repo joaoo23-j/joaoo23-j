@@ -1,8 +1,8 @@
 ## Hello There! 👋
 
-# I'm an **IT Technical student** taking my first steps into the technology field.
+ I'm an **IT Technical student** taking my first steps into the technology field.
 
-# Throughout my technical course, I've had the opportunity to explore different areas of IT and discover what interests me the most. I've worked with **programming, databases, networking, servers, and hardware**, gaining hands-on experience and understanding how different areas of technology connect.
+ Throughout my technical course, I've had the opportunity to explore different areas of IT and discover what interests me the most. I've worked with **programming, databases, networking, servers, and hardware**, gaining hands-on experience and understanding how different areas of technology connect.
 
 ---
 
