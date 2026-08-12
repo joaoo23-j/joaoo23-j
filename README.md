@@ -1,5 +1,5 @@
-##Hello there! 👋 👋
-# Hey there! 👋
+## Hello there! 👋 👋
+
 
 I'm an **IT student** currently studying and building my skills in technology.
 
@@ -30,7 +30,7 @@ I'm interested in **software development, computer hardware, networking, databas
 
 I'm still learning and improving every day, so this profile is also a way to **document my progress and the projects I build along the way**.
 
-### 🌎 Future goals
+### **🌎 Future goals**
 
 I want to keep growing in technology, gain experience, and eventually **build an international career**, with the possibility of working and living abroad.
 
